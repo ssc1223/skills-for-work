@@ -13,6 +13,8 @@ Claude Code Opus plans → Pi routes by difficulty → Pi/Sonnet/Opus implements
 
 Use this skill when the user asks for Smart Pi, `/smart-pi`, Opus planning with automatic Sonnet/Opus/Pi routing, Pi GPT-5.5 validation, or a no-sdk-credit workflow that avoids `claude -p` / Agent SDK usage.
 
+For concrete no-sdk-credit usage examples, see [EXAMPLES.md](EXAMPLES.md).
+
 ## Core Rules
 
 - Respond in Traditional Chinese unless the user asks otherwise.
